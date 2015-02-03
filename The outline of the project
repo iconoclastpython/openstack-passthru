@@ -7,7 +7,13 @@ Our moderate vision of this application is to establish a user-friendly cloud co
 And surely we have a more ambitious and far-reaching goal which is to enable the combination of functions from different service providers in one request. That is to say, we want to make it possible for a tenant to use Nova from Intel and Neutron from Cisco at the same time. The target user of this feature is mainly advanced users that know well their needs and the potential consequences will caused by combination of originally imcompatible components. This is one of the branches undergoing in the MOC project. We may need further study to decide whether this is a practical deliverable of a 3 months’ project.
 
 2.Roles of project
-
+We divided the project into 4 main roles:
+	1) Requirements gathering, and documentation
+	2) Development
+	3) Testing
+	4) Project Management
+All of our group members will be working on all 4 parts of our project, but we will dedicate a person who is the leader for each of those 4 portions- this will be updated once we determine who is responsible for what.
+	
 3.Discuss Scope
      Right now, we'll firstly focus on implementation and management of one service-which is to be decided(most probably Nova)-that offered by 
 BU's openstack instance.That is, one openstack instance and single service.
