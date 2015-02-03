@@ -1,1 +1,8 @@
 1.Project Vision
+
+2.Roles of project
+
+3.Discuss Scope
+     Right now, we'll firstly focus on implementation and management of one service-which is to be decided(most probably Nova)-that offered by 
+BU's openstack instance.That is, one openstack instance and single service.
+     After this, we're going to try other services like Swift and Cinder.Moreover,dealing with multiple providers is also in our scope.
