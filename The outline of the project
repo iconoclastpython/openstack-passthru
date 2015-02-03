@@ -12,3 +12,20 @@ And surely we have a more ambitious and far-reaching goal which is to enable the
      Right now, we'll firstly focus on implementation and management of one service-which is to be decided(most probably Nova)-that offered by 
 BU's openstack instance.That is, one openstack instance and single service.
      After this, we're going to try other services like Swift and Cinder.Moreover,dealing with multiple providers is also in our scope.
+
+
+4.Things to explore:‏
+  
+  a.Make Openstack API‏
+     # Make a terminal to simplify the front end designation
+	# Use command lines to run the application
+ 
+  b.Use python to complete the functionalization
+	# Register for different openstack services in an easier way
+	# Log in and log out
+	# Connect the user to their expected openstack services
+ 
+  c.Automated deployment of infrastructure in openstack‏‎
+	# How many openstack servers and who are they?
+	# How many kinds of services of openstack and what are they?
+	# Automatically give certain channels by a serial questions for different user to connect to their expected openstack services
