@@ -23,7 +23,7 @@ the application be extensive for new users and new service providers.
 4.Things to explore:‏
   
   a.Make Openstack API‏
-     # Make a terminal to simplify the front end designation
+        # Make a terminal to simplify the front end designation
 	# Use command lines to run the application
  
   b.Use python to complete the functionalization
